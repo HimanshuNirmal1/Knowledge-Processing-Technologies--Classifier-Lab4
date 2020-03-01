@@ -1,7 +1,6 @@
 
 /**
- * Course Number 612
- * Lab 04 Naive Bayes Classfier for text
+ * Naive Bayes Classfier for text mining
  * Himanshu Vinod Nirmal
  */
 import java.io.BufferedReader;
